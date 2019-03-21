@@ -4,4 +4,8 @@ Purpose of this repository is getting to know git.
 
 ## Requirements
 
-There is none 
+There is none.
+
+## License
+
+MIT
