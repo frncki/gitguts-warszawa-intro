@@ -8,7 +8,7 @@ There is none.
 
 ## License
 
-MIT
+Apache cos tam cos tam
 
 ## Author
 
