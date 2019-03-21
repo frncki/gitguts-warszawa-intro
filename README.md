@@ -9,3 +9,7 @@ There is none.
 ## License
 
 MIT
+
+## Author
+
+Franciszek Mirecki
