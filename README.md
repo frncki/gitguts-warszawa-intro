@@ -4,7 +4,7 @@ Purpose of this repository is to get to know git.
 
 ## Requirements
 
-There is none.
+node.js 2.01
 
 ## License
 
