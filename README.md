@@ -13,3 +13,10 @@ Apache cos tam cos tam
 ## Author
 
 Franciszek Mirecki
+
+## Notatka dla Łukasza
+
+jeżeli to widzisz to sorka nie dałem wszystkiego robić bo:
+a) zmeczenie
+b) leciutko momentami za szybko :D
+Dzieki!
