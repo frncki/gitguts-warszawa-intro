@@ -1,6 +1,6 @@
 # My first repo. <-[not true]
 
-Purpose of this repository is getting to know git.
+Purpose of this repository is to get to know git.
 
 ## Requirements
 
